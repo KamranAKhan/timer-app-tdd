@@ -1,0 +1,19 @@
+.button-container {
+    flex: 1 1 auto;
+    text-align: center;
+    margin: 25px 20px;
+    border: 2px solid #ffffff;
+    font-size: 20px;
+    padding: 10px 80px;
+    color: #ffffff;
+  }
+  
+  .button-container:hover {
+    background-color: #ffffff;
+    color: #ff5d5d;
+    border-radius: 5px;
+  }
+
+  .button-container:hover {
+    cursor: pointer;
+  }
